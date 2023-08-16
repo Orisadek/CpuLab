@@ -1,0 +1,18 @@
+[submodule "CpuLab1"]
+	path = CpuLab1
+	url = https://github.com/Orisadek/CpuLab1.git
+[submodule "CpuLab2"]
+	path = CpuLab2
+	url = https://github.com/Orisadek/CpuLab2.git
+[submodule "CpuLab3"]
+	path = CpuLab3
+	url = https://github.com/Orisadek/CpuLab3.git
+[submodule "CpuLab4"]
+	path = CpuLab4
+	url = https://github.com/Orisadek/CpuLab4.git
+[submodule "CPU_Lab5"]
+	path = CPU_Lab5
+	url = https://github.com/Orisadek/CPU_Lab5.git
+[submodule "finalProjectCpu"]
+	path = finalProjectCpu
+	url = https://github.com/Orisadek/finalProjectCpu.git
